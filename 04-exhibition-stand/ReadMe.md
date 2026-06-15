@@ -7,6 +7,6 @@ A large-scale infrastructure project featuring an interactive exhibition stand d
 ---
 
 ### Renders / Рендеры:
-![Stand Concept 1](stand_1.jpg)
-![Stand Concept 2](stand_2.jpg)
+![Stand Concept 1](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/04-exhibition-stand/Regional_Map_2.png)
+![Stand Concept 2](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/04-exhibition-stand/Regional_Map_4.png)
 

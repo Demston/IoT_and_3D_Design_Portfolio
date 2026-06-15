@@ -12,7 +12,6 @@ A commercial concept of an intelligent waste management system. Includes some hi
 
 [Smart Bin Presentation RU](./Smart_Bin_Presentation_RU.pdf)
 
-
 ---
 
 ![Smart Bin 1](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-2.png)
