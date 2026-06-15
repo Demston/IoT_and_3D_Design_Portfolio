@@ -7,5 +7,8 @@ Conceptual design of a modern urban trash bin for integration into contemporary 
 ---
 
 ### Renders / Рендеры:
-![Bin Type A - View 1](bin_a_1.jpg)
-![Bin Type A - View 2](bin_a_2.jpg)
+![Bin 1](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/02-urban-design-concepts/Trash_Bin_1_2.png)
+![Bin 2](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/02-urban-design-concepts/Trash_Bin_2_2.png)
+![Bin 3](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/02-urban-design-concepts/Trash_Bin_4_2.png)
+![Bin 4](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/02-urban-design-concepts/Trash_Bin_5_2.png)
+
