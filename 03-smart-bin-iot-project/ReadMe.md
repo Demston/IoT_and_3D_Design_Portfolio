@@ -15,11 +15,11 @@ A commercial concept of an intelligent waste management system. Includes some hi
 
 ---
 
-![slide 1](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/Room_Downtown.png)
-![slide 2](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/Flat_DSK.png)
-![slide 3](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/Kitchen_A.png)
-![slide 4](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/House_Alexander-Front.png)
-![slide 5](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/SVD.png)
-![slide 6](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/SVD.png)
-![slide 7](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/Hoet_DS9_BR.png)
-![slide 8](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/01-creative-and-art/Under_Water.png)
+![slide 1](slides/slide1.jpg)
+![slide 2](slides/slide2.jpg)
+![slide 3](slides/slide3.jpg)
+![slide 4](slides/slide4.jpg)
+![slide 5](slides/slide5.jpg)
+![slide 6](slides/slide6.jpg)
+![slide 7](slides/slide7.jpg)
+![slide 8](slides/slide8.jpg)
