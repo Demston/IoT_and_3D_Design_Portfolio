@@ -15,11 +15,11 @@ A commercial concept of an intelligent waste management system. Includes some hi
 
 ---
 
-![slide 1](slides/slide1.jpg)
-![slide 2](slides/slide2.jpg)
-![slide 3](slides/slide3.jpg)
-![slide 4](slides/slide4.jpg)
-![slide 5](slides/slide5.jpg)
-![slide 6](slides/slide6.jpg)
-![slide 7](slides/slide7.jpg)
-![slide 8](slides/slide8.jpg)
+![Smart Bin 1](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-2.png)
+![Smart Bin 2](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-4.png)
+![Smart Bin 3](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-6.png)
+![Smart Bin 4](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-8.png)
+![Smart Bin 5](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-18.png)
+![Smart Bin 6](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-22.png)
+![Smart Bin 7](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-28.png)
+![Smart Bin 8](https://github.com/Demston/IoT_and_3D_Design_Portfolio/blob/main/03-smart-bin-iot-project/Smart_Bin-mechanism-30.png)
